@@ -18,8 +18,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 ## Program
 
 ```
-Thanjiyappan k
-212222240108
+RAHUL B
+212222220032
 
 import socket
 
